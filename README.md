@@ -1,38 +1,57 @@
-# create-svelte
+# Portafolio de Octavio Pastorive
+Este es mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador fullstack.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Creando un proyecto
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+Si estás viendo esto, probablemente ya hayas hecho este paso. ¡Felicidades!
 
 ```bash
-# create a new project in the current directory
+# crear un nuevo proyecto en el directorio actual
 npm create svelte@latest
 
-# create a new project in my-app
+# crear un nuevo proyecto en my-app
 npm create svelte@latest my-app
 ```
 
-## Developing
+## Instalación de Dependencias
+Después de crear el proyecto, navega a la carpeta del proyecto y ejecuta:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+```bash
+npm install
+```
+
+## Desarrollo
+
+Una vez que hayas creado un proyecto e instalado las dependencias, inicia un servidor de desarrollo:
 
 ```bash
 npm run dev
 
-# or start the server and open the app in a new browser tab
+# o inicia el servidor y abre la aplicación en una nueva pestaña del navegador
 npm run dev -- --open
 ```
 
-## Building
+## Construcción
 
-To create a production version of your app:
+Para crear una versión de producción de tu aplicación:
 
 ```bash
 npm run build
 ```
 
-You can preview the production build with `npm run preview`.
+Puedes previsualizar la construcción de producción con:
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+```bash
+npm run preview
+```
+
+## Scripts Disponibles
+- `npm run dev`: Inicia el servidor de desarrollo.
+- `npm run build`: Crea una versión de producción de la aplicación.
+- `npm run preview`: Muestra la versión de producción localmente.
+
+## Contribuciones
+Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
