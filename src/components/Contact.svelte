@@ -43,8 +43,7 @@
 
 <style>
   .contact {
-    padding: 4rem 0;
-    background-color: rgba(0, 0, 0, 0.7);
+    padding: 4rem 1rem; /* Ajustar el padding para móviles */
   }
 
   h2 {
@@ -54,12 +53,12 @@
   }
 
   form {
-    max-width: 600px;
-    margin: 0 auto;
+    display: flex;
+    flex-direction: column; /* Cambiar a columna en móviles */
   }
 
   .form-group {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem; /* Espaciado entre grupos de formulario */
   }
 
   label {

@@ -8,31 +8,31 @@
 <style>
   .hero {
     text-align: center;
-    padding: 4rem 0;
+    padding: 4rem 1rem; /* Ajustar el padding para móviles */
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 10px;
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: 2.5rem; /* Ajustar tamaño de fuente */
     margin-bottom: 0.5rem;
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1.5rem; /* Ajustar tamaño de fuente */
     color: var(--accent-color);
     margin-bottom: 1rem;
   }
 
   p {
-    font-size: 1.2rem;
+    font-size: 1rem; /* Ajustar tamaño de fuente */
     max-width: 600px;
     margin: 0 auto 2rem;
   }
 
   .cta-button {
     display: inline-block;
-    padding: 0.8rem 1.5rem;
+    padding: 0.5rem 1rem; /* Ajustar padding */
     background-color: var(--secondary-color);
     color: white;
     text-decoration: none;

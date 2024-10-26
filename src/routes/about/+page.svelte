@@ -38,7 +38,7 @@
     <ul>
       <li>
         <h3>Licenciatura en Informática</h3>
-        <p>Universidad Universidad Nacional de Quilmes | En curso (Año de graduación esperado: 2029)</p>
+        <p>Universidad Universidad Nacional de Quilmes | En curso</p>
       </li>
       <li>
         <h3>Tecnicatura en Programación</h3>
@@ -50,7 +50,7 @@
   <section class="skills">
     <h2>Habilidades Técnicas</h2>
     <ul>
-      <li>Frontend: HTML, CSS, JavaScript, SvelteKit</li>
+      <li>Frontend: SvelteKit</li>
       <li>Backend: Django, NodeJS, Express</li>
       <li>Bases de datos: MySQL, MongoDB</li>
       <li>Control de versiones: Git, GitHub</li>

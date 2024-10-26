@@ -43,4 +43,11 @@
     a:hover {
       background-color: var(--primary-color);
     }
+
+    @media (max-width: 600px) {
+        nav {
+            flex-direction: column; /* Cambia la dirección a columna en pantallas pequeñas */
+            gap: 0.5rem; /* Reduce el espacio entre los enlaces */
+        }
+    }
   </style>

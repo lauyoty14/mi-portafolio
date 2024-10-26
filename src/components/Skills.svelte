@@ -37,14 +37,14 @@
 
 <style>
   .skills {
-    padding: 4rem 0;
+    padding: 2rem 0; /* Ajustar el padding para móviles */
     background-color: rgba(0, 0, 0, 0.7);
     border-radius: 10px; /* Bordes redondeados */
   }
 
   h2 {
-    font-size: 2.5rem;
-    margin-bottom: 2rem;
+    font-size: 2rem; /* Reducir el tamaño de la fuente para móviles */
+    margin-bottom: 1.5rem; /* Ajustar el margen inferior */
     text-align: center;
     color: white; /* Color del texto */
   }

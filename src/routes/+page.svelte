@@ -25,4 +25,10 @@
     margin: 0 auto;
     padding: 2rem;
   }
+
+  @media (max-width: 768px) {
+    main {
+      padding: 1rem;
+    }
+  }
 </style>
