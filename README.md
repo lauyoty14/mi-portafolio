@@ -1,4 +1,4 @@
-# Portafolio de Octavio Pastorive
+# Portafolio 
 Este es mi portafolio personal donde muestro mis proyectos y habilidades como desarrollador fullstack.
 
 ## Creando un proyecto
