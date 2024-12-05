@@ -13,6 +13,13 @@
       technologies: ['SvelteKit', 'Django', 'MySQL'],
       image: './images/admin-canchas/inicioPC.png',
       link: '/projects/admin-canchas'
+    },
+    {
+      title: 'Sistema de gestion de emprendimientos',
+      description: 'Un sistema para gestionar el stock, datos de ventas e interfaz de un emprendimiento',
+      technologies: ['SvelteKit','Django','MySQL'],
+      image: './images/gestion-Emprendimiento/InicioPc.png',
+      link: '/projects/gestion-Emprendimiento'
     }
   ];
 </script>
